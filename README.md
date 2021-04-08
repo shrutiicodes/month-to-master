@@ -71,7 +71,7 @@ We’ll talk about freelancing sites v/s social media consistency and my formula
 Why am I doing this?
 
 “Helping others is helping yourself” which inspires me to share my knowledge for FREE. I yearn to learn more & more and I would love to share my learnings with other people who are curious like me.
-I truly believe that anyone should have the knowledge to learn how to code, design and develop websites which is why this is free, covering 15 platforms.
+I truly believe that anyone should have the knowledge to learn how to code, design and develop websites which is why this is free, covering 12 platforms.
 
 YouTube - https://www.youtube.com/channel/UCrpf13_a3qKxFBs-IaAlRkQ
 
