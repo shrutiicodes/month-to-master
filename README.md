@@ -22,7 +22,9 @@ Chapter 5 - #16DaysofMERN
 There’ll be bonus sessions on Git, GitHub & How to grow as a Freelancer Also.
 
 When it is?
-Starting from 1st May to 31st May
+
+Starting from 1st May to 31st May.
+
 Some details about what we’re going to cover!
 
 Chapter 1 – HTML
