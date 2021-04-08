@@ -103,7 +103,7 @@ What you’ll get doing this?
 After 31Days there’ll be a giveaway where you have to build a website from what you learned in this bootcamp. The last submission Date is 12th June 2021, 12:00 PM and The Result Date is 13th June 2021, 12:00 PM.
 So, you have 31 Days + 12 Days to complete and submit it and we’ll be taking 3 projects/websites and will provide them with their portfolio website made my me as a prize.
 
-Learn more about the giveaway! – [Button]
+Learn more about the giveaway! – https://shrutipanjwani.com/giveaway.html
 
 •	E-certificate
 You all who submitted the project will get an e-certificate from CroCoding Community of completing this bootcamp which can add value to your resume.
