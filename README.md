@@ -8,14 +8,18 @@ Well, this bootcamp is specifically built out to help you in your coding journey
 Let’s see in more detail
 
 Month to Master
+
 Chapter 1 - #1DayofHTML
+
 Chapter 2 - #2DaysofCSS
+
 Chapter 3 - #4DaysofJS
+
 Chapter 4 - #8DaysofReactJS
+
 Chapter 5 - #16DaysofMERN
 
 There’ll be bonus sessions on Git, GitHub & How to grow as a Freelancer Also.
-This bootcamp is focused on web development, from a noob to advanced. 
 
 When it is?
 Starting from 1st May to 31st May
@@ -65,16 +69,27 @@ Why am I doing this?
 I truly believe that anyone should have the knowledge to learn how to code, design and develop websites which is why this is free, covering 15 platforms.
 
 YouTube - https://www.youtube.com/channel/UCrpf13_a3qKxFBs-IaAlRkQ
+
 Instagram - https://www.instagram.com/_shrutipanjwani/
+
 Twitter - https://twitter.com/_shrutipanjwani
+
 LinkedIn - https://www.linkedin.com/in/shruti-panjwani-348306193/
+
 Discord Community - https://discord.gg/9Nh4EEhg
+
 Medium - https://medium.com/@shrutipanjwani13
+
 Full Information on my website - https://shrutipanjwani.com/joinmybootcamp.html
+
 GitHub Organization - https://github.com/cro-coding
+
 Quora Space – https://crocoding.quora.com
+
 Udemy Web Bootcamp - 
+
 Stack Overflow - https://stackoverflow.com/users/15499004/shruti-panjwani
+
 Subscribe to the newsletter to get free resources and updates - https://shrutipanjwani.com/joinmybootcamp.html
 
 What you’ll get doing this?
