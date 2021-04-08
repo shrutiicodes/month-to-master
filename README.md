@@ -57,12 +57,15 @@ We’re going to cover the whole frontend, backend and everything in between wit
 Some More Topics: -
 
 What is Git?
+
 Git is a version control system which helps you in keeping track of your code. Usually used for coordinating work among programmers.
 
 What is GitHub?
+
 GitHub is social network for developers and programmers. Here you can also host your website for free.
 
 How to grow as a freelancer and get clients?
+
 We’ll talk about freelancing sites v/s social media consistency and my formula for getting clients.
 
 Why am I doing this?
