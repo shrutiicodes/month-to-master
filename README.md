@@ -71,7 +71,7 @@ We’ll talk about freelancing sites v/s social media consistency and my formula
 Why am I doing this?
 
 “Helping others is helping yourself” which inspires me to share my knowledge for FREE. I yearn to learn more & more and I would love to share my learnings with other people who are curious like me.
-I truly believe that anyone should have the knowledge to learn how to code, design and develop websites which is why this is free, covering 12 platforms.
+I truly believe that anyone should have the knowledge to learn how to code, design and develop websites which is why this is free, covering 10 platforms.
 
 YouTube - https://www.youtube.com/channel/UCrpf13_a3qKxFBs-IaAlRkQ
 
@@ -83,9 +83,9 @@ LinkedIn - https://www.linkedin.com/in/shruti-panjwani-348306193/
 
 Discord Community - https://discord.gg/9Nh4EEhg
 
-Medium - https://medium.com/@shrutipanjwani13
+Medium - https://medium.com/crocoding/month-to-master/home
 
-Full Information on my website - https://shrutipanjwani.com/joinmybootcamp.html
+Full Information on my website - https://shrutipanjwani.com/month-to-master
 
 GitHub Organization - https://github.com/cro-coding
 
@@ -93,9 +93,7 @@ Quora Space – https://crocoding.quora.com
 
 Udemy Web Bootcamp - 
 
-Stack Overflow - https://stackoverflow.com/users/15499004/shruti-panjwani
-
-Subscribe to the newsletter to get free resources and updates - https://shrutipanjwani.com/joinmybootcamp.html
+Subscribe to the newsletter to get free resources and updates - https://shrutipanjwani.com/month-to-master
 
 What you’ll get doing this?
 
@@ -103,7 +101,7 @@ What you’ll get doing this?
 After 31Days there’ll be a giveaway where you have to build a website from what you learned in this bootcamp. The last submission Date is 12th June 2021, 12:00 PM and The Result Date is 13th June 2021, 12:00 PM.
 So, you have 31 Days + 12 Days to complete and submit it and we’ll be taking 3 projects/websites and will provide them with their portfolio website made my me as a prize.
 
-Learn more about the giveaway! – https://shrutipanjwani.com/giveaway.html
+Learn more about the giveaway! – https://shrutipanjwani.com/giveaway
 
 •	E-certificate
 You all who submitted the project will get an e-certificate from CroCoding Community of completing this bootcamp which can add value to your resume.
