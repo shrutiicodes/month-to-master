@@ -91,8 +91,6 @@ GitHub Organization - https://github.com/cro-coding
 
 Quora Space – https://crocoding.quora.com
 
-Udemy Web Bootcamp - 
-
 Subscribe to the newsletter to get free resources and updates - https://shrutipanjwani.com/month-to-master
 
 What you’ll get doing this?
@@ -117,6 +115,6 @@ You might get some opportunities to work with me as a freelancer in my team. You
 
 So, what are you waiting for? Register for this in the link given below, for any queries email us or join our discord community to help you out. Share this with your friends those who might take interest to participate.
 
-Registration link - 
+Registration link - https://forms.gle/ctuYAkKYZ2rXWov9A
 
 So, for the 31 Days You’ll see me with a new thing each day to take your coding journey further. Till then Keep Learning & Stay focused. 
