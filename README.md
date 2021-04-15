@@ -1,6 +1,6 @@
 <h1 align="center">Month to Master</h1>
 
-![m2m](https://user-images.githubusercontent.com/67150258/114914580-19084500-9e40-11eb-9e27-a3f2731caa4a.jpeg)
+![m2m](https://user-images.githubusercontent.com/67150258/114915146-d6933800-9e40-11eb-95fd-4293cc867e10.png)
 
 Want to become a web developer? Together our community of developers and developers to be, will help you.
 I am so excited to announce that CroCoding – Our community is launching the 31DaysBootcamp – Month to Master which will help you grow as a developer and a freelancer!
