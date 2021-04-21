@@ -85,7 +85,7 @@ Twitter - https://twitter.com/_shrutipanjwani
 
 LinkedIn - https://www.linkedin.com/in/shruti-panjwani-348306193/
 
-Discord Community - https://discord.gg/9Nh4EEhg
+Discord Community - https://discord.gg/QNCt9TsJvN
 
 Medium - https://medium.com/crocoding/month-to-master/home
 
