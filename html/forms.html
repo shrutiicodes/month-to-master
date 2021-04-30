@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="shortcut icon" href="/assets/favicon.png" type="image/x-icon" />
+		<title>HTML Forms</title>
+	</head>
+	<body>
+		<form action="forms.html" method="GET">
+			<label for="name">Name</label>
+			<input
+				type="text"
+				name="Name"
+				id="name"
+				placeholder="Enter your name"
+				required
+			/>
+			<br />
+			<br />
+			<label for="email">Email</label>
+			<input
+				type="email"
+				name="Email"
+				id="email"
+				placeholder="Enter your email"
+				required
+			/>
+			<br />
+			<br />
+			<label for="search">Search</label>
+			<input type="search" name="Search" id="search" placeholder="&#128269;" />
+			<br />
+			<br />
+			<label for="tel">Phone Number</label>
+			<input
+				type="tel"
+				name="Phone"
+				id="tel"
+				placeholder="Enter your phone no."
+			/>
+			<br />
+			<br />
+			<label for="date">Date</label>
+			<input type="date" id="date" />
+			<br />
+			<br />
+			<label for="date">Date</label>
+			<input type="datetime-local" id="date" />
+			<br />
+			<br />
+			<label for="color">Colors</label>
+			<input type="color" id="color" />
+			<br />
+			<br />
+			<label for="file">Choose any image</label>
+			<input type="file" multiple accept="images/*" id="file" />
+			<br /><br />
+			<label for="check">Check here</label>
+			<input type="checkbox" name="check" id="check" checked />
+			<br /><br />
+			<label for="radio">Check here</label>
+			<input type="radio" name="radio" id="radio" />
+			<br />
+			<br />
+			<label for="range">Your ability</label>
+			<input type="range" name="range" id="range" />
+			<br />
+			<br />
+			<label for="text">Message</label>
+			<textarea name="text" id="text" cols="30" rows="5"></textarea>
+			<br />
+			<br />
+			<label for="select">Select True or False</label>
+			<select name="select" id="select">
+				<option value="True">True</option>
+				<option value="False">False</option>
+			</select>
+			<br />
+			<br />
+			<input type="submit" value="Submit" />
+		</form>
+	</body>
+</html>
