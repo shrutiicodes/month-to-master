@@ -1,0 +1,23 @@
+div {
+	display: block;
+	overflow-x: hidden;
+	height: 100vh;
+	max-height: 100%;
+	perspective: 1px;
+	perspective-origin: center top;
+}
+
+section {
+	padding: 35px 20px;
+	background-color: white;
+	transform: translateZ(0);
+}
+
+header {
+	background: url("/assets/banner.jpg") no-repeat center center / cover;
+	height: 50vh;
+	position: relative;
+	padding: 1px;
+	transform-origin: center top;
+	transform: translateZ(-1px) scale(2.01);
+}

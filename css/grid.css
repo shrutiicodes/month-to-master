@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.cards-container {
+	width: 100%;
+	height: 100vh;
+	background: rgb(55, 13, 83);
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: 100px 100px;
+	grid-auto-rows: 200px;
+	grid-auto-columns: 50px;
+	gap: 10px 20px;
+}
+
+.card {
+	width: 60px;
+	height: 50px;
+	background: #f52e5d;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+}
+
+.inner-card p {
+	font-size: 14px;
+}

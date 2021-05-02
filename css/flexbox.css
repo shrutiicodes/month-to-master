@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.cards-container {
+	width: 100%;
+	height: 50vh;
+	display: flex;
+	flex-direction: column;
+	background: rgb(55, 13, 83);
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+.card {
+	width: 60px;
+	height: 50px;
+	background: #f52e5d;
+	color: #fff;
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+	/* flex-grow: 1;
+	flex-shrink: 1;
+	flex-basis: 100px; */
+	flex: 1 1 auto;
+}
+
+.inner-card p {
+	font-size: 14px;
+}

@@ -1,0 +1,68 @@
+/*Universal Selector*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	color: #2f8aa9;
+}
+
+/* Type/ Element/ Tag Selector */
+strong {
+	font-size: 20px;
+}
+
+/* Type/ Element/ Tag Selector */
+p {
+	color: inherit;
+	background-color: #ded6c8;
+	/* Absolute units */
+	width: 20px;
+	/*Relative units*/
+	width: 70vw;
+	/*The numbered values with no units*/
+	margin: 0;
+	line-height: 1.2;
+}
+
+/* Type/ Element/ Tag Selector */
+div {
+	/*Function Values*/
+	transform: rotate(0deg);
+	width: calc(100% - 20px);
+	background-image: url("/assets/small.jpg");
+}
+
+/* Type/ Element/ Tag Selector */
+/*A shorthand property*/
+/* Grouping Selector */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: blue;
+}
+
+/* Class Selector */
+.heading {
+	background-color: #fff;
+}
+
+/* ID Selector */
+#one {
+	font-size: 30px;
+}
+
+/* Desendant Selector */
+.div p {
+	font-size: 50px;
+}
+
+/* Combinig Selector */
+.div .container {
+	font-style: italic;
+}

@@ -1,0 +1,16 @@
+div {
+	padding: 20px;
+}
+
+div img {
+	animation: slide 0.5s forwards;
+	transform: translateY(300px) scale(1.2);
+	opacity: 0;
+}
+
+@keyframes slide {
+	to {
+		opacity: 1;
+		transform: none;
+	}
+}

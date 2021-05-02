@@ -1,0 +1,23 @@
+a {
+	color: red;
+}
+
+a:link {
+	color: brown;
+}
+
+a:hover {
+	background-color: cornsilk;
+}
+
+a:active {
+	color: black;
+}
+
+a:focus {
+	border: 1px solid green;
+}
+
+a:visited {
+	color: purple;
+}
